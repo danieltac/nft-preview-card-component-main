@@ -83,7 +83,7 @@ span{
 }
 
 .owner::before{
-    background-image: url('/images/image-avatar.png');
+    background-image: url('https://i.imgur.com/rROKYMl.png');
     background-size: 30px 30px;
     position:relative;
     top:10px;
